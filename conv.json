@@ -1,0 +1,31 @@
+{
+  "description": {
+    "tr": "Çok yakında hizmetteyiz!",
+    "en": "We will be at your service very soon!",
+    "jp": "間もなくご利用いただけます。"
+  },
+  "month": {
+    "tr": "Ay",
+    "en": "Month"
+  },
+  "week": {
+    "tr": "Hafta",
+    "en": "Week"
+  },
+  "day": {
+    "tr": "Gün",
+    "en": "Day"
+  },
+  "hour": {
+    "tr": "Saat",
+    "en": "Hour"
+  },
+  "minute": {
+    "tr": "Dakika",
+    "en": "Minute"
+  },
+  "second": {
+    "tr": "Saniye",
+    "en": "Second"
+  }
+}
